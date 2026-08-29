@@ -1,6 +1,6 @@
 # SQL Practice
 
-This repository contains my **SQL queries and solutions** practiced across various coding and interview-preparation platforms.
+This repository contains my **SQL queries and solutions** practiced across various coding platforms.
 
 ### Technology
 
